@@ -1,0 +1,10 @@
+{"name":"g'f'n'hg'f'n'h","score":1101}
+{"name":"MaxLykoS","score":941}
+{"name":"拉卡拉","score":216}
+{"name":"hkya","score":166}
+{"name":"hgj","score":141}
+{"name":"Max","score":71}
+{"name":"LLLL","score":66}
+{"name":"bbbzz","score":9}
+{"name":"vc","score":3}
+{"name":"","score":0}
